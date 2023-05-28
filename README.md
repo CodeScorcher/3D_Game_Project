@@ -1,15 +1,13 @@
 # 3D Game Programming Project
 CS4555 Game Project for Team 5
 
-Below is Game Pitch
+November 21st, 2022
 
 Name of Game: Terragrasp
 
 Name of Team: VisualCade
 
 Group Members: Christian Armendariz, Eduardo Cruz, Scott Sun
-
-November 21st, 2022
 
 #### Logline:
 You are a brave human combatant who accepts a mission requiring you to reclaim an enemy-held territory on a distant planet by defeating creatures and reestablishing the area’s communication with Earth.
