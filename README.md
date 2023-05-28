@@ -7,6 +7,8 @@ Name of Game: Terragrasp
 
 Name of Team: VisualCade
 
+Group Members: Christian Armendariz, Eduardo Cruz, Scott Sun
+
 November 21st, 2022
 
 #### Logline:
