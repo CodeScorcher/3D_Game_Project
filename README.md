@@ -22,7 +22,5 @@ Terragrasp is an action beat ‘em up game, which is played from a third-person 
 Technology:
 There will be many types of enemies with different approaches to defeating the player, requiring different code structures to be created since they define enemy behavior.
 
-The player will be able to level up their character, improving their offense/defense stats. This will require us to develop code that checks when players have earned a certain number of experience.
-
 There will be power ups that provide a temporary advantage for the player when dealing with a large number of enemies. This will require a power up spawn system, as well additional scripts that will change the player’s behavior when the item is picked up.
 
