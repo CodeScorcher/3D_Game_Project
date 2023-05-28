@@ -1,4 +1,4 @@
-# our-3D-game
+# 3D Game Programming Project
 3D game project for Team 5 CS4555
 
 Below is Game Pitch
@@ -8,7 +8,8 @@ Name of Game: Terragrasp
 Name of Team: VisualCade
 
 September 1st, 2022
-Logline:
+
+#### Logline:
 You are a brave human combatant who accepts a mission requiring you to reclaim enemy-held territories on a distant planet by defeating creatures and reestablishing the area’s communication with Earth.
 
 #### Story:
